@@ -3,7 +3,7 @@ Serán atributos del alumno su número de expediente, nombre, apellidos, fecha d
 y curso en el que se matricula. La clase debe incluir un constructor y los métodos get y
 set correspondientes y toString. Instancia varios objetos de esta clase y prueba los métodos
 creados. */
-package Tema4.ejercicio1;
+package Tema4.ejercicio5;
 
 public class Alumno {
     private int nExpediente;
